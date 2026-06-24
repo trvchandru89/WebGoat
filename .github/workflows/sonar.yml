@@ -33,5 +33,5 @@ jobs:
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
           -DskipTests
           -Dsonar.organization=trvchandru89
-          -Dsonar.projectKey=WebGoat
+          -Dsonar.projectKey=trvchandru89_pygoat
           -Dsonar.host.url=https://sonarcloud.io
